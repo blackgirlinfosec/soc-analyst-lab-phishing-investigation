@@ -37,7 +37,7 @@ This lab simulates real world email triage tasks and shows how I would respond t
 ## 📁 Folder Structure
 
 - [`1_raw_email/`](./1_raw_email) – Original .eml, screenshots of rendered message  
-- [`2_header_analysis/`](./2_header_analysis) – Screenshots of header + IP analysis  
+- [`2_header_analysis/`](./2_header_analysis) – Screenshots of header + IP analysis  + IP Blacklisting
 - [`3_link_analysis/`](./3_link_analysis) – Suspicious link and HTML analysis  
 - [`4_findings/`](./4_findings) – IOCs and case summary  
 - [`5_extras/`](./5_extras) – Optional bonus notes or screenshots  
