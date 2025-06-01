@@ -1,0 +1,7 @@
+This phishing email claimed to be from an email administrator and warned the user about failed email deliveries. The sender used a spoofed domain and sent the email from 38.68.46.250, which is listed on at least one blacklist.
+
+The email urged the recipient to click a link to verify their information. The link directed to knu.edu.af, which appeared to be hosted on a foreign server and used Cloudflare. The page is currently inactive, but the structure and naming suggest it once hosted a fake login page.
+
+The email failed SPF, DKIM, and DMARC checks. These email authentication failures support the assessment that the message was not legitimate.
+
+Based on the header, URL, and behavioral analysis, this email was part of a credential phishing campaign.
