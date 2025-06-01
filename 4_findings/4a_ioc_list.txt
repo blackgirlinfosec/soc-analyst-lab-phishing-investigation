@@ -1,9 +1,9 @@
 Sender IP: 38.68.46.250
-Sender Domain: maxsgmail.top
-Return Path: sales@maxsgmail.top
-Email Subject: Kindly Re-Validate
+Sender Domain: domain.com
+Return Path: noreply@domain.com
+Email Subject: You have (3) failed email deliveries
 Email Header Domain: domain.com
-Malicious URL: https://knu.edu.af/upgrade/vbd/a-l-l/admin_system/rules_404_sys/2o19_nile_moves/...
+Malicious URL: https://knu.edu.af/upgrade/vbd/a-l-l/admin_system/rules_404_sys/...
 Destination IP: 188.114.96.3
 Destination Domain: knu.edu.af
 Blacklisted IP: Yes (38.68.46.250)
