@@ -26,10 +26,12 @@ This lab simulates real world email triage tasks and shows how I would respond t
 
 ## 🛠️ Tools Used
 
-- [MXToolbox](https://mxtoolbox.com/)
-- [AbuseIPDB](https://abuseipdb.com/)
-- [CyberChef](https://gchq.github.io/CyberChef/)
-- [URLScan.io](https://urlscan.io/)
+### 🛠️ Tools Used
+
+- [MXToolbox](https://mxtoolbox.com/) – For email header analysis and blacklist checks  
+- [URLScan.io](https://urlscan.io/) – To safely analyze the behavior and reputation of suspicious URLs  
+- [CyberChef](https://gchq.github.io/CyberChef/) – For decoding email content  
+- [malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) – Source of phishing email samples used in this lab
 - GitHub for case documentation
 
 ---
